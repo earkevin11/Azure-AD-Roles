@@ -26,3 +26,18 @@ Some Azure AD roles are:
 - - Manages subscriptions
 - - Manage support tickets
 - - Monitors service health
+
+
+To view the list of built-in roles within Azure AD, navigate to Azure AD > Click on the Roles and Administrators blade.
+
+Azure Roles (RBAC) vs Azure Active Directory Roles
+
+Azure roles control permissions to manage Azure resources, while Azure AD roles control permissions to manage Azure Active Directory resources.
+
+
+
+
+Azure AD Roles - User Administrator
+
+
+Inviting an exernal user
