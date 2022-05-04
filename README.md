@@ -28,7 +28,13 @@ Some Azure AD roles are:
 - - Monitors service health
 
 
-To view the list of built-in roles within Azure AD, navigate to Azure AD > Click on the Roles and Administrators blade.
+<strong> <em> To view the list of built-in roles within Azure AD, navigate to Azure AD > Click on the Roles and Administrators blade. </em> </strong> 
+
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/166802229-da4c29b8-4789-4f59-a041-691b7c9def58.png" height="100%" width="100%" alt="AZ Active Directory Roles"/>
+  
+<p/>
 
 Azure Roles (RBAC) vs Azure Active Directory Roles
 
