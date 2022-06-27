@@ -39,11 +39,17 @@ Some Azure AD roles are:
 # Azure Roles (RBAC) vs Azure Active Directory Roles
 
 Azure roles control permissions to manage Azure resources, while Azure AD roles control permissions to manage Azure Active Directory resources.
+# RBAC has three basic roles that apply to all resource types:
+- Owner
+- This role has full access to all the resources and can delegate access to others.
+ 
+- Contributor
+- This role can create and manage all types of resources, but can’t grant access to other users and groups.
+ 
+- Reader
+- This role can view existing Azure resources.
 
 
-
-
-Azure AD Roles - User Administrator
-
-
-Inviting an exernal user
+# Summary
+ - Azure AD roles are used to manage access to Azure AD resources, whereas Azure roles are used to manage access to Azure resources.
+ - The scope of Azure AD roles is at the tenant level, whereas the scope of Azure roles can be specified at multiple levels including management group, subscription, resource group, resource.
