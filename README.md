@@ -36,7 +36,7 @@ Some Azure AD roles are:
   
 <p/>
 
-Azure Roles (RBAC) vs Azure Active Directory Roles
+# Azure Roles (RBAC) vs Azure Active Directory Roles
 
 Azure roles control permissions to manage Azure resources, while Azure AD roles control permissions to manage Azure Active Directory resources.
 
