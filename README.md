@@ -16,6 +16,7 @@ Some Azure AD roles are:
 - - Manage access to ALL administarive features in Azure AD, as well as services that federate to Azure AD
 - - Assign administrator roles to others
 - - Reset the password for any users and all other administrators
+- - By default, Global admin does not have access to Azure resources.
 - <strong> <em> The person who signs up for the Azure AD tenant becomes a Global Administrator </strong> </em>
 - User Administrator:
 - - Create and manage all aspects of users and groups
