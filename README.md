@@ -2,7 +2,7 @@
 
 What are Azure AD roles?
 
-- Azure AD role are built-in roles used to manage Azure AD resources. 
+- Azure AD role are built-in roles used to manage <strong> Azure AD resources </strong>. 
 - There are several Azure AD Roles and they can be used to:
 - Create or edit users
 - Assign admin roles to others
